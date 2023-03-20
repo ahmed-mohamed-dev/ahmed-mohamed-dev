@@ -11,7 +11,7 @@ export default function index() {
       <div>
         <ul className='flex items-center space-x-[30px]'>
           <li id='gmail' className='cursor-pointer'>
-            <a ariaLabel="email" dataInlinesvg=".inlineSvgFile-3" href="mailto:info@mathewzeng1@gmail.com?subject=Mail to mathewzeng.netlify.com">
+            <a ariaLabel="email" dataInlinesvg=".inlineSvgFile-3" href="mailto:info@ahmed.mohamed.dev1@gmail.com?subject=Mail to ahmed-mohamed-dev.netlify.com">
               <GmailIcon size={25} className="text-[#777] fill-[#777] hover:scale-110" />
             </a>
           </li>
