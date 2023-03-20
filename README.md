@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**ahmed-mohamed-dev/ahmed-mohamed-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  ꧁M꧂꧁A꧂꧁T꧂꧁T꧂꧁H꧂꧁E꧂꧁W꧂
+</p>
+<p align="center">
+  «&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/ahmed-mohamed-dev1/">Linkedin</a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://stackoverflow.com/users/21416271/ahmed-mohamed">Stackoverflow</a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://ahmed-mohamed.netlify.app">Personal Website</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  »
+</p>
+<p align="center">
+  ꧁Z꧂꧁E꧂꧁N꧂꧁G꧂
+</p>
